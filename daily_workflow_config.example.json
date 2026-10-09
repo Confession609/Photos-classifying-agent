@@ -1,0 +1,7 @@
+{
+  "input_directory": null,
+  "output_directory": "outputs/daily_photos",
+  "recursive": true,
+  "archive_policy": "cascade_prediction",
+  "cpu_threads": 8
+}

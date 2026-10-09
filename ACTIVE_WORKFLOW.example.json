@@ -1,0 +1,15 @@
+{
+  "version": "gd_top1_original_auto_crop_two_heads",
+  "status": "active",
+  "subject_selector_enabled": false,
+  "category_hint_used": false,
+  "prompt": "main subject.",
+  "feature_dim": 1024,
+  "gd_model": "models/grounding_dino/best_model",
+  "gd_model_sha256": "REPLACE_WITH_MODEL_SAFETENSORS_SHA256",
+  "heads": "models/heads/heads.pt",
+  "heads_sha256": "REPLACE_WITH_HEADS_PT_SHA256",
+  "clip_model": "models/open_clip/open_clip_model.safetensors",
+  "person_gate_threshold": 0.5,
+  "leaf_labels": ["人像", "风光摄影", "静物摄影", "活动事件摄影"]
+}
