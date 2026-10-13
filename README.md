@@ -59,3 +59,5 @@ py -3.12 -m venv .venv
 测试不需要发布模型或真实照片；Windows 启动器测试需要按前文创建 `.venv`。
 
 发布文件范围、许可证待确认事项和隐私说明见 [PUBLICATION.md](PUBLICATION.md)。模型来源与修改说明见 [MODEL_NOTICES.md](MODEL_NOTICES.md)。
+
+注意：权重在Realeses中！！！
